@@ -1,0 +1,4 @@
+Produto especificado: dd
+Preço a vista do produto: 56
+Valor de desconto ou acréscimo: 2,8
+Preço final do Produto: 58,8

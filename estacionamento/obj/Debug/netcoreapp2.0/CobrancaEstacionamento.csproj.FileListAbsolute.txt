@@ -1,0 +1,10 @@
+C:\Users\Landim\logica\estacionamento\bin\Debug\netcoreapp2.0\CobrancaEstacionamento.deps.json
+C:\Users\Landim\logica\estacionamento\bin\Debug\netcoreapp2.0\CobrancaEstacionamento.runtimeconfig.json
+C:\Users\Landim\logica\estacionamento\bin\Debug\netcoreapp2.0\CobrancaEstacionamento.runtimeconfig.dev.json
+C:\Users\Landim\logica\estacionamento\bin\Debug\netcoreapp2.0\CobrancaEstacionamento.dll
+C:\Users\Landim\logica\estacionamento\bin\Debug\netcoreapp2.0\CobrancaEstacionamento.pdb
+C:\Users\Landim\logica\estacionamento\obj\Debug\netcoreapp2.0\CobrancaEstacionamento.csproj.CoreCompileInputs.cache
+C:\Users\Landim\logica\estacionamento\obj\Debug\netcoreapp2.0\CobrancaEstacionamento.AssemblyInfoInputs.cache
+C:\Users\Landim\logica\estacionamento\obj\Debug\netcoreapp2.0\CobrancaEstacionamento.AssemblyInfo.cs
+C:\Users\Landim\logica\estacionamento\obj\Debug\netcoreapp2.0\CobrancaEstacionamento.dll
+C:\Users\Landim\logica\estacionamento\obj\Debug\netcoreapp2.0\CobrancaEstacionamento.pdb
